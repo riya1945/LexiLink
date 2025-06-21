@@ -5,11 +5,6 @@ LexiLink is an intelligent document assistant that lets you **chat with your PDF
 Whether you're a student, researcher, or professional, LexiLink helps you quickly find the information you need without manually skimming pages.
 
 ---
-## Screenshots
-![Screenshot 1](images/Screenshot 2025-06-21 115140.jpg)
-![File Upload](images/file uploaded.jpg)
-![Question Asked]](images/question asked.jpg)
-
 
 ## 🚀 Features
 
