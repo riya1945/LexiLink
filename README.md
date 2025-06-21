@@ -6,9 +6,9 @@ Whether you're a student, researcher, or professional, LexiLink helps you quickl
 
 ---
 ## Screenshots
-![image](images/Screenshot 2025-06-21 115140.jpg)
-![image](images/file uploaded.jpg)
-![image](images/question asked.jpg)
+![Screenshot 1](images/Screenshot 2025-06-21 115140.jpg)
+![File Upload](images/file uploaded.jpg)
+![Question Asked]](images/question asked.jpg)
 
 
 ## 🚀 Features
